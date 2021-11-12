@@ -1,1 +1,1 @@
-# Advanced-Survival-Prediction-and-Automatic-Segmentation-in-Head-and-Neck-Cancer-
+# Advanced Survival Prediction and Automatic Segmentation in Head and Neck Cancer  
